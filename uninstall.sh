@@ -1,3 +1,4 @@
+#!/bin/sh
 
 # TeXLinve uninstaller
 # https://tex.stackexchange.com/a/95502
