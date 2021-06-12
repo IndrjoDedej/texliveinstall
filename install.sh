@@ -27,4 +27,3 @@ sudo umount /media/iso
 
 # ... e rimuovi la cartella /media/iso
 sudo rm -rf /media/iso
-
